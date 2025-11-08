@@ -14,7 +14,7 @@ Check out the live version here:
 
 ## Screenshot
 
-<img src="images/analog.jpg" alt="Analog Clock" width="400" height="200">
+<img src="images/analog.jpg" alt="Analog Clock" width="350" height="400">
 
 
 ## **Features**
