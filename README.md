@@ -12,6 +12,10 @@ Check out the live version here:
 
 ---
 
+##Screenshot
+![analog](https://github.com/user-attachments/assets/6f52f7a7-7e56-4573-b007-c0c658f323c1)
+
+
 ## **Features**
 
 - Real-time analog clock
